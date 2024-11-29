@@ -19,8 +19,6 @@ public class Src_enemy_00 : MonoBehaviour
     void Update()
     {
         rigidbody.velocity = new Vector2(direction * velocity, rigidbody.velocity.y);
-
-
     }
 
     void EnemyFlip() 
