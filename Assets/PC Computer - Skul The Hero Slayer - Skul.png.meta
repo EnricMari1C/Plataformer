@@ -1,0 +1,3528 @@
+fileFormatVersion: 2
+guid: 07491dc7e3e40e04ebdd39d401edfc9d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1251
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cb0bafeac07964db21414619fd1f76
+      internalID: -2090483097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1250
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b683b12a5f4bef7468baa62fd91ddab6
+      internalID: 88381273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1251
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba1b68a5c40f1146843bf853317cae1
+      internalID: -702656776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1253
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb232c2444cea3042917dd8d0eda353d
+      internalID: 755582866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1206
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd5214b53a24dd4a8f68ca5aa0a257e
+      internalID: 1788388787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1204
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54e6837d9b3259438ee0a9d4304a307
+      internalID: -2052200110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1203
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891627ce3791cfe48b9167dbc4de5572
+      internalID: 101831623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1203
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea684580b88a19e4395a08bd596a5a75
+      internalID: -1055144137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1204
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634396c59789774469e46b3292721c4c
+      internalID: 458423808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1201
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc318b1a21f3bb34ea92ff7589c8afaf
+      internalID: 155463136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1203
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdad18c1448b784085a6ab003db62e5
+      internalID: -409321816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1203
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ed7e2dd10e74042be39a0eb9b2848a
+      internalID: -577140734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1160
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0411cabb078fe4ab9bf32f9f57b626
+      internalID: -77823367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1111
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2d6bef4cb8d2946a9f657aac11665f
+      internalID: -1554103376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1111
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37276942004246048b7ee618ab4ce852
+      internalID: -1499299571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1062
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361ccadf3cba8314d99c9b2065ab4cb8
+      internalID: -708382205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_16
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1063
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3715b0a22c2a1ca4785d00ebdfe7367a
+      internalID: 398440291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1009
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d234d8cb7eb651746bf52db02cdb4903
+      internalID: -946124382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_18
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1010
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1e09cbdefce354ca76f0a5053ac742
+      internalID: 1509401074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1010
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6526337955187c46b59e8e7fc745b81
+      internalID: -84274015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 950
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e9cf1ebf31efb4989c51149e0a16d0
+      internalID: 917873764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 951
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b36e191faec3a141a6e626076c4a283
+      internalID: -1528718890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 939
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822e9e887e69aec409d1ab0653d35c77
+      internalID: 1200659746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 956
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb866a72f5200594997eff14f244042c
+      internalID: 1725973774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_24
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 961
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a78f891147f6e49a571a44d4314e13
+      internalID: -1055580882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 893
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c760b14f06d70c4c91d828cc4c6e2f9
+      internalID: -479501758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 867
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf040bebf54f0d478c68688ce741c7b
+      internalID: 739248806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 874
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65875e65abd41644914779bf8ceab7a
+      internalID: 1677503441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 882
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8d2b1fe7cd6c14bb5942272e605375
+      internalID: -349480330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 812
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05681e0275b741d4fa77b6a140a709d1
+      internalID: 373225760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 797
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cb2d82842a92241b90f941175c2e77
+      internalID: -924886099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 810
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9effeecf939511b4bbe60654531eaeee
+      internalID: 209249198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_32
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 817
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae05a6de5913c604193f30eebcb1daf5
+      internalID: -1978624103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 751
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc370ed34a45c484c8a3b9b7b8d0cd74
+      internalID: 85950890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 744
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f42b0155cad8874e829e607fb4c3777
+      internalID: -154039476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 745
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73de0b3632e78d2448fe7ff4e8d00122
+      internalID: 109879250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_36
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 757
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab539b5e84aacc14985f6a33d0c04edd
+      internalID: 667470770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 703
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ebfb0c8524353488d285dff9e9266f
+      internalID: 1009318328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 707
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf9ae51186d7d4fb86e8959bcef2e9
+      internalID: -186821082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 710
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6878937307b95224184778485dc6ea7c
+      internalID: 1943129006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 669
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1741491eaf490f944818e50492a76337
+      internalID: -371196870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 635
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af59cdd444c255b4db71af99e6a440ca
+      internalID: -2020654583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 635
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c3e3d13019a58479260eb40e44cf29
+      internalID: 491727176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 635
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b57a64f9fef5439e0f1c57500c55a
+      internalID: -160269082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_44
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 635
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f1c4050713c684cb5c2b94a1ec4bef
+      internalID: 1816103974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 632
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7df807c477f51748adcf000b9e93a7e
+      internalID: -1176517589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 628
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a11e419365b354aad932a43d4bdf46
+      internalID: -544498663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_47
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 626
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e6ba50b753f104bb35bcfbf70205fc
+      internalID: 93610040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_48
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 624
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a93945254d86034abbe906ae550eadf
+      internalID: -996946872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_49
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 623
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00518f969eb6a0f41ae57e494be5b483
+      internalID: 1090463184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 574
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcc9cbf66300a342ad6282073347816
+      internalID: 1680001900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 577
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a1bf362f5e600408e6c1b537d55ae4
+      internalID: 769152333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 578
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a020890c0e9af274c818353274b99b42
+      internalID: 1469632441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_53
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 580
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269c2c69b5e455749a7c110e9b618bef
+      internalID: -247014259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 580
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f7d11b6a908e541be7a9754f402dcd
+      internalID: 985132490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 580
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dc4043f47b3b240afaa48892c0bdb2
+      internalID: -1208808560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_56
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 581
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bb749e9b3f997429d5ccff5135c4e7
+      internalID: 534036311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_57
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 582
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8c5407afa20214b8fc92c164156d07
+      internalID: -334112033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_58
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 586
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4452f4c2a91994e42991b818f5369227
+      internalID: -32496917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_59
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 593
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf82c8dfaeff99c488a49154fd7fa4aa
+      internalID: 400933105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_60
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 593
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300607d589b094f4aa5002fb7e9fdcd5
+      internalID: -2143270366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_61
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 593
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d39d7b7c77d354ebf1e2697c8a0e15
+      internalID: -1883385099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_62
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 593
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2ea9139d1ce054eafe52504b30e344
+      internalID: 1676429923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_63
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 593
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7201214fe564a9240a1daf52c25e96fd
+      internalID: 784509025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_64
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 593
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5977b780ebf83e4e8dc01e8184c6c0c
+      internalID: 79476725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_65
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 593
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2106582d5826943826d44763955967
+      internalID: 228697222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_66
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 593
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5624339af93c5624c9e1ba7985314d1b
+      internalID: 1507848234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_67
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 548
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb93d6d63b973d4f847f0503452f8bb
+      internalID: -1568749247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_68
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 524
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c830aebee55cd64eb1b5bb05fcd7b6d
+      internalID: 775464969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_69
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 510
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae1020350fa59d43a54cd59b0800a9a
+      internalID: -1296952314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_70
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 506
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afbda17dc16ffd499913809cce4bc98
+      internalID: 1846795027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_71
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 508
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeec8186c40ca942809d820bf1c62a1
+      internalID: -62385651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 475
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c5c4dc4b339e4498a272022b4745f4
+      internalID: 1778910893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_73
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 475
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac9782234eed5488cbc5237b19f0c8
+      internalID: 601050266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_74
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 475
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a45574574e24248a880299874ad805
+      internalID: 1940491403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_75
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 475
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e9d05b1959fe449883fcf37e32780
+      internalID: 947825773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_76
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 474
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074425481cd85d24e9d3deeb803c15f7
+      internalID: -1041851953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_77
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 473
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e3552570ee16f4996e0d3b248d7084
+      internalID: -1567037181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_78
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 472
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308c00d13396a324c9acf30c029e41c1
+      internalID: -1710716904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_79
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 469
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b068c3bb4d5abf848b62d4af0bb89d8c
+      internalID: -1297250101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_80
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 466
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d71cd92f5a2cf1458d0b2e505011f2d
+      internalID: 191505332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_81
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 464
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150db01f14f96f046bbd902cf9eeb786
+      internalID: 146402381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_82
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 461
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa04b92efcf14a438807b943f0d8d3a
+      internalID: 913226915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_83
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 459
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b01d741197be043aec78caf93468f5
+      internalID: 535229383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_84
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 457
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcbf9fee8868494dab815cf3f567123
+      internalID: -701461897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_85
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 457
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12f9bf0379e4854fb9a4e0e7aa6c188
+      internalID: 1205063963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_86
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 425
+        width: 123
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fc1b7a37c7b2540b79789aa42358b4
+      internalID: -867010256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_87
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 433
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8c92e52e5e47847a313dda797f0f91
+      internalID: -1291128954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_88
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 440
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a4b04491a250a4f84b9695706f1f04
+      internalID: -581286778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_89
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 442
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a46c599d1e1aa34586c3fc8453c57f9
+      internalID: -29745230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_90
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 451
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ef244eeefd2af459f2fda49624095a
+      internalID: 1683951102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_91
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 452
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46e94512b44f2440a7bbf4af0d0a290
+      internalID: 1705515999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_92
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 452
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95acf5bf3ee3d3b47ac0f8670c741480
+      internalID: -546570187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_93
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 454
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dda9d8f0ba1924aa863a28198f0ff6
+      internalID: 1051877333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_94
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 457
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef2fac57f4321c4282b34e46c65bde9
+      internalID: 2027617969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_95
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 457
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fb040c6fd6ad44f953dc9ab3483a72
+      internalID: 1243043520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_96
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 457
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3030e5c2e8b4749a3aa93f2a579ffa
+      internalID: 1182439676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_97
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 457
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57261536784ae804a8179b0558b8c6d6
+      internalID: 813521121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_98
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 457
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b3964aee8c5414d8dbd9f233eebf16
+      internalID: 1434651063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 376
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ba89f8b6a460b4cbc1f62c1ecfd2f6
+      internalID: 972248155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 335
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f829eedf9070a49ab842efadc5307b
+      internalID: -1641340225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_101
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 377
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c73c96f7a25224282deed15335b864
+      internalID: 806244572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 335
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc40341dfeec1644a04d13ee9fbb70b
+      internalID: 593778572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_103
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 379
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4dc084e379f4346b12861b7316885f
+      internalID: 846104075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_104
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 335
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c09b756f3f7554687d2618da26d0aa
+      internalID: -1830712515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_105
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 379
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15c7775b2eb39a45b8395bbe9380b28
+      internalID: -1655746173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_106
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 377
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a67f2b0d1291ed419183ec82d85f5e8
+      internalID: -1894083450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_107
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 375
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b43fa87199f154db3caa5ef7da6213
+      internalID: 17374345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_108
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 374
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d114ccfe1fe5324a9111db9339d89df
+      internalID: -994525604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_109
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 374
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d910bfde6ba6d474a85a1a894472e811
+      internalID: 845907249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_110
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 373
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715957837a8b3204f99bfc38a0239ef7
+      internalID: -1170465363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_111
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 334
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aad5f8ac33729949ab1f42d2cb33540
+      internalID: 133339755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_112
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 334
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428da35101e7fda4d978f5a4b026f9ac
+      internalID: 596415454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_113
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 333
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c091bd450fe2b24c9e50cc365390dcc
+      internalID: 1671063082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_114
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 334
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd099bf0cea80154e8c0e7eb84843080
+      internalID: 974903245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_115
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 334
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ff119f99d08ef458f7375499bfd935
+      internalID: 779721103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_116
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 372
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6c478b0d845bd4b98c4456bf087811
+      internalID: 89763864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_117
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 334
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad1bb3fd17f7ba4b91adbf1629239bc
+      internalID: -535476306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_118
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 372
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9005df20ac1879a42b36cb8634b10ab1
+      internalID: -1797829426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_119
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 334
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e86e51525fb35c4fb6cbc70297eb169
+      internalID: 1437308164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_120
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 372
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ac485dfa3662c4c8e5aca65ab92d88
+      internalID: 892927359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_121
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 334
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c906fa9cfc4dcea47bac8faf9a22033e
+      internalID: 1057435545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_122
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 334
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a328c041dbdd0b42acbc7f78e6b07bc
+      internalID: 239308354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_123
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 372
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2745c93cc3770c4f9335eeaeef9d3e2
+      internalID: 1162503464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_124
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 372
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1d193723e9f6c44b1e604fa16d9b16
+      internalID: 1786052950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_125
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 376
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983d7ba82b155424396c0af801d6c4bb
+      internalID: -728866440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_126
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 334
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f3a55c7e4f02c49bea389df0381a4a
+      internalID: 1455397762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_127
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 334
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8dc5ac15cde7b45a44a823df96db50
+      internalID: 1053227233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_128
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 375
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e4d6136be135b45bdb3aec6a253cbf
+      internalID: 408515167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_129
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 374
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cddb93fbbd8ffe4692430acdc614b70
+      internalID: 987230169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_130
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 334
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1baa0a169db990d4cba5e8a622979f61
+      internalID: 2135039978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_131
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 374
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329587d55b440bf43aaed8fc64fd5f97
+      internalID: 1670723091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_132
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 334
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2443986fc5f70fd43ba0f6c434618a15
+      internalID: -1967968742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_133
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 374
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a4c7acab30e684681774c157777a2b
+      internalID: 694892238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_134
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 334
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2964703528cbd40b7786ce4dfcdadc
+      internalID: 1311453057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_135
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 374
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4217df0dd11de543a437ae47b9b4190
+      internalID: -1247515390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_136
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 374
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ab64313f8f714428bf20d6a2bb7b9f
+      internalID: -390214741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_137
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 334
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a44e2c45224d14ba9c800041822ce1
+      internalID: -913223417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_138
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 377
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b33dd00b127bc84899ce4a6623759d0
+      internalID: 1778023591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_139
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 337
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffe302ac2c30bb4cb98e96266f22141
+      internalID: 1968095059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_140
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 376
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff0f28a359834448a1ad88809a7957a
+      internalID: -1377308680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_141
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 339
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84019ac48ff545a4ead881c8434f0418
+      internalID: -1856456814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_142
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 375
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea0abc7e73b8ed4bb91fbe9946b8da9
+      internalID: -1578080583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_143
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 339
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52625b4fed7c87a48b07d7e070190ff2
+      internalID: -1190461816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_144
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 375
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f535d8dde875f46946573cdade37db
+      internalID: -342294197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_145
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 337
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd80bd21865efd9499f11d60de851d3d
+      internalID: 1924415577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_146
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 336
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450cfe9f88b6dab488b592245fdfa788
+      internalID: -860440783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_147
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7bb3364c3003b45ae1b216ca6d334a
+      internalID: -1160887526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_148
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b4500aba8617d46b4269486e8d2220
+      internalID: -768134441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_149
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a99cf9e7033fe42bdc62abacaac596
+      internalID: -19037111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_150
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b84e89da1db93409a14801889330df
+      internalID: -1475661132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_151
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 7
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5aaccb3ce39ba498ea64bc86f7a0d0
+      internalID: 3552236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_152
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 7
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6324ea4e732544441809d02f929130ae
+      internalID: -1939801011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Skul The Hero Slayer - Skul_153
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8398e279048c94aa8a0880f86ce3d0
+      internalID: -319592538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Skul The Hero Slayer - Skul_0: -2090483097
+      PC Computer - Skul The Hero Slayer - Skul_1: 88381273
+      PC Computer - Skul The Hero Slayer - Skul_10: -409321816
+      PC Computer - Skul The Hero Slayer - Skul_100: -1641340225
+      PC Computer - Skul The Hero Slayer - Skul_101: 806244572
+      PC Computer - Skul The Hero Slayer - Skul_102: 593778572
+      PC Computer - Skul The Hero Slayer - Skul_103: 846104075
+      PC Computer - Skul The Hero Slayer - Skul_104: -1830712515
+      PC Computer - Skul The Hero Slayer - Skul_105: -1655746173
+      PC Computer - Skul The Hero Slayer - Skul_106: -1894083450
+      PC Computer - Skul The Hero Slayer - Skul_107: 17374345
+      PC Computer - Skul The Hero Slayer - Skul_108: -994525604
+      PC Computer - Skul The Hero Slayer - Skul_109: 845907249
+      PC Computer - Skul The Hero Slayer - Skul_11: -577140734
+      PC Computer - Skul The Hero Slayer - Skul_110: -1170465363
+      PC Computer - Skul The Hero Slayer - Skul_111: 133339755
+      PC Computer - Skul The Hero Slayer - Skul_112: 596415454
+      PC Computer - Skul The Hero Slayer - Skul_113: 1671063082
+      PC Computer - Skul The Hero Slayer - Skul_114: 974903245
+      PC Computer - Skul The Hero Slayer - Skul_115: 779721103
+      PC Computer - Skul The Hero Slayer - Skul_116: 89763864
+      PC Computer - Skul The Hero Slayer - Skul_117: -535476306
+      PC Computer - Skul The Hero Slayer - Skul_118: -1797829426
+      PC Computer - Skul The Hero Slayer - Skul_119: 1437308164
+      PC Computer - Skul The Hero Slayer - Skul_12: -77823367
+      PC Computer - Skul The Hero Slayer - Skul_120: 892927359
+      PC Computer - Skul The Hero Slayer - Skul_121: 1057435545
+      PC Computer - Skul The Hero Slayer - Skul_122: 239308354
+      PC Computer - Skul The Hero Slayer - Skul_123: 1162503464
+      PC Computer - Skul The Hero Slayer - Skul_124: 1786052950
+      PC Computer - Skul The Hero Slayer - Skul_125: -728866440
+      PC Computer - Skul The Hero Slayer - Skul_126: 1455397762
+      PC Computer - Skul The Hero Slayer - Skul_127: 1053227233
+      PC Computer - Skul The Hero Slayer - Skul_128: 408515167
+      PC Computer - Skul The Hero Slayer - Skul_129: 987230169
+      PC Computer - Skul The Hero Slayer - Skul_13: -1554103376
+      PC Computer - Skul The Hero Slayer - Skul_130: 2135039978
+      PC Computer - Skul The Hero Slayer - Skul_131: 1670723091
+      PC Computer - Skul The Hero Slayer - Skul_132: -1967968742
+      PC Computer - Skul The Hero Slayer - Skul_133: 694892238
+      PC Computer - Skul The Hero Slayer - Skul_134: 1311453057
+      PC Computer - Skul The Hero Slayer - Skul_135: -1247515390
+      PC Computer - Skul The Hero Slayer - Skul_136: -390214741
+      PC Computer - Skul The Hero Slayer - Skul_137: -913223417
+      PC Computer - Skul The Hero Slayer - Skul_138: 1778023591
+      PC Computer - Skul The Hero Slayer - Skul_139: 1968095059
+      PC Computer - Skul The Hero Slayer - Skul_14: -1499299571
+      PC Computer - Skul The Hero Slayer - Skul_140: -1377308680
+      PC Computer - Skul The Hero Slayer - Skul_141: -1856456814
+      PC Computer - Skul The Hero Slayer - Skul_142: -1578080583
+      PC Computer - Skul The Hero Slayer - Skul_143: -1190461816
+      PC Computer - Skul The Hero Slayer - Skul_144: -342294197
+      PC Computer - Skul The Hero Slayer - Skul_145: 1924415577
+      PC Computer - Skul The Hero Slayer - Skul_146: -860440783
+      PC Computer - Skul The Hero Slayer - Skul_147: -1160887526
+      PC Computer - Skul The Hero Slayer - Skul_148: -768134441
+      PC Computer - Skul The Hero Slayer - Skul_149: -19037111
+      PC Computer - Skul The Hero Slayer - Skul_15: -708382205
+      PC Computer - Skul The Hero Slayer - Skul_150: -1475661132
+      PC Computer - Skul The Hero Slayer - Skul_151: 3552236
+      PC Computer - Skul The Hero Slayer - Skul_152: -1939801011
+      PC Computer - Skul The Hero Slayer - Skul_153: -319592538
+      PC Computer - Skul The Hero Slayer - Skul_16: 398440291
+      PC Computer - Skul The Hero Slayer - Skul_17: -946124382
+      PC Computer - Skul The Hero Slayer - Skul_18: 1509401074
+      PC Computer - Skul The Hero Slayer - Skul_19: -84274015
+      PC Computer - Skul The Hero Slayer - Skul_2: -702656776
+      PC Computer - Skul The Hero Slayer - Skul_20: 917873764
+      PC Computer - Skul The Hero Slayer - Skul_21: -1528718890
+      PC Computer - Skul The Hero Slayer - Skul_22: 1200659746
+      PC Computer - Skul The Hero Slayer - Skul_23: 1725973774
+      PC Computer - Skul The Hero Slayer - Skul_24: -1055580882
+      PC Computer - Skul The Hero Slayer - Skul_25: -479501758
+      PC Computer - Skul The Hero Slayer - Skul_26: 739248806
+      PC Computer - Skul The Hero Slayer - Skul_27: 1677503441
+      PC Computer - Skul The Hero Slayer - Skul_28: -349480330
+      PC Computer - Skul The Hero Slayer - Skul_29: 373225760
+      PC Computer - Skul The Hero Slayer - Skul_3: 755582866
+      PC Computer - Skul The Hero Slayer - Skul_30: -924886099
+      PC Computer - Skul The Hero Slayer - Skul_31: 209249198
+      PC Computer - Skul The Hero Slayer - Skul_32: -1978624103
+      PC Computer - Skul The Hero Slayer - Skul_33: 85950890
+      PC Computer - Skul The Hero Slayer - Skul_34: -154039476
+      PC Computer - Skul The Hero Slayer - Skul_35: 109879250
+      PC Computer - Skul The Hero Slayer - Skul_36: 667470770
+      PC Computer - Skul The Hero Slayer - Skul_37: 1009318328
+      PC Computer - Skul The Hero Slayer - Skul_38: -186821082
+      PC Computer - Skul The Hero Slayer - Skul_39: 1943129006
+      PC Computer - Skul The Hero Slayer - Skul_4: 1788388787
+      PC Computer - Skul The Hero Slayer - Skul_40: -371196870
+      PC Computer - Skul The Hero Slayer - Skul_41: -2020654583
+      PC Computer - Skul The Hero Slayer - Skul_42: 491727176
+      PC Computer - Skul The Hero Slayer - Skul_43: -160269082
+      PC Computer - Skul The Hero Slayer - Skul_44: 1816103974
+      PC Computer - Skul The Hero Slayer - Skul_45: -1176517589
+      PC Computer - Skul The Hero Slayer - Skul_46: -544498663
+      PC Computer - Skul The Hero Slayer - Skul_47: 93610040
+      PC Computer - Skul The Hero Slayer - Skul_48: -996946872
+      PC Computer - Skul The Hero Slayer - Skul_49: 1090463184
+      PC Computer - Skul The Hero Slayer - Skul_5: -2052200110
+      PC Computer - Skul The Hero Slayer - Skul_50: 1680001900
+      PC Computer - Skul The Hero Slayer - Skul_51: 769152333
+      PC Computer - Skul The Hero Slayer - Skul_52: 1469632441
+      PC Computer - Skul The Hero Slayer - Skul_53: -247014259
+      PC Computer - Skul The Hero Slayer - Skul_54: 985132490
+      PC Computer - Skul The Hero Slayer - Skul_55: -1208808560
+      PC Computer - Skul The Hero Slayer - Skul_56: 534036311
+      PC Computer - Skul The Hero Slayer - Skul_57: -334112033
+      PC Computer - Skul The Hero Slayer - Skul_58: -32496917
+      PC Computer - Skul The Hero Slayer - Skul_59: 400933105
+      PC Computer - Skul The Hero Slayer - Skul_6: 101831623
+      PC Computer - Skul The Hero Slayer - Skul_60: -2143270366
+      PC Computer - Skul The Hero Slayer - Skul_61: -1883385099
+      PC Computer - Skul The Hero Slayer - Skul_62: 1676429923
+      PC Computer - Skul The Hero Slayer - Skul_63: 784509025
+      PC Computer - Skul The Hero Slayer - Skul_64: 79476725
+      PC Computer - Skul The Hero Slayer - Skul_65: 228697222
+      PC Computer - Skul The Hero Slayer - Skul_66: 1507848234
+      PC Computer - Skul The Hero Slayer - Skul_67: -1568749247
+      PC Computer - Skul The Hero Slayer - Skul_68: 775464969
+      PC Computer - Skul The Hero Slayer - Skul_69: -1296952314
+      PC Computer - Skul The Hero Slayer - Skul_7: -1055144137
+      PC Computer - Skul The Hero Slayer - Skul_70: 1846795027
+      PC Computer - Skul The Hero Slayer - Skul_71: -62385651
+      PC Computer - Skul The Hero Slayer - Skul_72: 1778910893
+      PC Computer - Skul The Hero Slayer - Skul_73: 601050266
+      PC Computer - Skul The Hero Slayer - Skul_74: 1940491403
+      PC Computer - Skul The Hero Slayer - Skul_75: 947825773
+      PC Computer - Skul The Hero Slayer - Skul_76: -1041851953
+      PC Computer - Skul The Hero Slayer - Skul_77: -1567037181
+      PC Computer - Skul The Hero Slayer - Skul_78: -1710716904
+      PC Computer - Skul The Hero Slayer - Skul_79: -1297250101
+      PC Computer - Skul The Hero Slayer - Skul_8: 458423808
+      PC Computer - Skul The Hero Slayer - Skul_80: 191505332
+      PC Computer - Skul The Hero Slayer - Skul_81: 146402381
+      PC Computer - Skul The Hero Slayer - Skul_82: 913226915
+      PC Computer - Skul The Hero Slayer - Skul_83: 535229383
+      PC Computer - Skul The Hero Slayer - Skul_84: -701461897
+      PC Computer - Skul The Hero Slayer - Skul_85: 1205063963
+      PC Computer - Skul The Hero Slayer - Skul_86: -867010256
+      PC Computer - Skul The Hero Slayer - Skul_87: -1291128954
+      PC Computer - Skul The Hero Slayer - Skul_88: -581286778
+      PC Computer - Skul The Hero Slayer - Skul_89: -29745230
+      PC Computer - Skul The Hero Slayer - Skul_9: 155463136
+      PC Computer - Skul The Hero Slayer - Skul_90: 1683951102
+      PC Computer - Skul The Hero Slayer - Skul_91: 1705515999
+      PC Computer - Skul The Hero Slayer - Skul_92: -546570187
+      PC Computer - Skul The Hero Slayer - Skul_93: 1051877333
+      PC Computer - Skul The Hero Slayer - Skul_94: 2027617969
+      PC Computer - Skul The Hero Slayer - Skul_95: 1243043520
+      PC Computer - Skul The Hero Slayer - Skul_96: 1182439676
+      PC Computer - Skul The Hero Slayer - Skul_97: 813521121
+      PC Computer - Skul The Hero Slayer - Skul_98: 1434651063
+      PC Computer - Skul The Hero Slayer - Skul_99: 972248155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
