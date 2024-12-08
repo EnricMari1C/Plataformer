@@ -112,6 +112,7 @@ MonoBehaviour:
   velocity: 2
   CanFlip: 1
   TimeToFlip: 4.11
+  vida: 3
 --- !u!1 &7396495285541215186
 GameObject:
   m_ObjectHideFlags: 0
@@ -185,7 +186,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1945471382, guid: 0766524de219adc4890c185d6bfe3020, type: 3}
+  m_Sprite: {fileID: 819905628, guid: 0766524de219adc4890c185d6bfe3020, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

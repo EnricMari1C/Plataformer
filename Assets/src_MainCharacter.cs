@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
-using static UnityEditor.Searcher.SearcherWindow.Alignment;
 
 public class src_MainCharacter : MonoBehaviour
 {
@@ -23,6 +22,14 @@ public class src_MainCharacter : MonoBehaviour
     public float LowJumpMultiplier = 2f;
     private float jumpTimeCounter;
     public float JumpTime;
+    public float invulnerabilityDuration = 1f; // Duración de la invulnerabilidad en segundos
+    private bool isInvulnerable = false; // Estado de invulnerabilidad
+    private SpriteRenderer spriteRenderer; // Para parpadeos visuales
+    public LayerMask originalLayer; // Capa original del personaje
+    public LayerMask invulnerableLayer; // Capa para ignorar enemigos
+    public AudioSource jump;
+    public AudioSource dolor;
+
 
     // Start is called before the first frame update
     void Start()
@@ -30,6 +37,9 @@ public class src_MainCharacter : MonoBehaviour
         Rigidbody2D = GetComponent<Rigidbody2D>();
         animations = GetComponent<Animator>();
         Capsula = GetComponent<CapsuleCollider2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        originalLayer = gameObject.layer;
+        invulnerableLayer = LayerMask.NameToLayer("IgnoreEnemy");
     }
 
     // Update is called once per frame
@@ -52,6 +62,7 @@ public class src_MainCharacter : MonoBehaviour
             {
                 animations.SetTrigger("jump");
                 //IsJumping = true;
+                jump.Play();
                 jumpTimeCounter = JumpTime;
                 Rigidbody2D.velocity = new Vector2(Rigidbody2D.velocity.x, Salto);
             }
@@ -62,7 +73,6 @@ public class src_MainCharacter : MonoBehaviour
                 {
                     Rigidbody2D.velocity = new Vector2(Rigidbody2D.velocity.x, Rigidbody2D.velocity.y + JumpAcceleration * Time.deltaTime);
                     jumpTimeCounter -= Time.deltaTime;
-                    animations.SetTrigger("jump");
                 }
                 else
                 {
@@ -98,7 +108,30 @@ public class src_MainCharacter : MonoBehaviour
         Vector3 groundCheckOffset = Vector3.up * GroundCheck_Offset + Vector3.right * GroundCheck_XOffset * Mathf.Sign(transform.localScale.x);
         Gizmos.DrawWireSphere(Capsula.transform.position + groundCheckOffset, GroundCheck_Radius);
     }
+    public void TakeDamage(int damage)
+    {
+        if (isInvulnerable) return; // No recibe daño si está invulnerable
 
+        Lives -= damage; // Aplica el daño
+        StartCoroutine(ActivateInvulnerability());
+    }
+
+    private IEnumerator ActivateInvulnerability()
+    {
+        isInvulnerable = true;
+        gameObject.layer = invulnerableLayer; // Cambia a capa invulnerable
+
+        // Efecto de parpadeo
+        for (float i = 0; i < invulnerabilityDuration; i += 0.2f)
+        {
+            spriteRenderer.enabled = !spriteRenderer.enabled; // Alterna la visibilidad
+            yield return new WaitForSeconds(0.2f);
+        }
+
+        spriteRenderer.enabled = true; // Asegura que quede visible
+        gameObject.layer = originalLayer; // Restaura la capa original
+        isInvulnerable = false;
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -106,14 +139,10 @@ public class src_MainCharacter : MonoBehaviour
         {
             foreach (ContactPoint2D Points in collision.contacts)
             {
-                if (Points.normal.y >= 0.9)
-                {
-                    Destroy(collision.gameObject);
-                }
-                else
-                {
-                    Lives--;
-                }
+
+                dolor.Play();
+                TakeDamage(1);
+
             }
         }
     }

@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,6 +10,7 @@ public class Src_enemy_00 : MonoBehaviour
     float direction = 1;
     public bool CanFlip;
     public float TimeToFlip;
+    [SerializeField] float vida;
     void Start()
     {
         rigidbody = GetComponent<Rigidbody2D>();
@@ -28,6 +30,31 @@ public class Src_enemy_00 : MonoBehaviour
         if (CanFlip)
         {
             Invoke("EnemyFlip", TimeToFlip);
+            if (direction == 1)
+            {
+                transform.localScale = new Vector3(-1f, 1f, 1f);
+            }
+            else
+            {
+                transform.localScale = new Vector3(1f, 1f, 1f);
+            }
+
         }
+    }
+
+    public void TomarDaño(float daño) 
+    {
+        vida -= daño;
+
+        if (vida <= 0) 
+        {
+            Muerte();
+        }
+
+    }
+
+    private void Muerte()
+    {
+        Destroy(gameObject);
     }
 }

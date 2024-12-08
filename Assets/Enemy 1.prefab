@@ -112,6 +112,7 @@ MonoBehaviour:
   velocity: 1.11
   CanFlip: 1
   TimeToFlip: 2.11
+  vida: 3
 --- !u!1 &6417510472987349819
 GameObject:
   m_ObjectHideFlags: 0
